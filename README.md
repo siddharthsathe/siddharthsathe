@@ -8,10 +8,10 @@ I specialize in architecting clean, production-grade platforms across the stack:
 
 I specialize in architecting clean, production-grade platforms across the stack:
 
-**Frontend & Architecture**: React.js, Next.js, Micro-frontends, TypeScript  
-**Backend Engineering**: Node.js, modern backend frameworks, scalable API design  
-**Databases**: PostgreSQL, MongoDB, DynamoDB  
-**Cloud & Infrastructure**: AWS, GCP, cloud-native architectures  
+**Frontend & Architecture**: React.js, Next.js, TypeScript & Micro-frontends.
+**Backend Engineering**: Node.js & its most widely used framework NestJS amongst others.
+**Databases**: PostgreSQL, MongoDB, DynamoDB.
+**Cloud & Infrastructure**: AWS, GCP and more.
 
 With a strong focus on AI-first design and long-term scalability, I turn complex product requirements into elegant, high-performance systems built to last.
 
