@@ -6,14 +6,12 @@ I’m an AI first Full-Stack Software Engineer with 9+ years of experience in bu
 
 I specialize in architecting clean, production-grade platforms across the stack:
 
-I specialize in architecting clean, production-grade platforms across the stack:
+**Frontend & Architecture**: React.js, Next.js, TypeScript, Micro-frontends   
+**Backend Engineering**: Node.js & its frameworks  
+**Databases**: PostgreSQL, MongoDB, DynamoDB  
+**Cloud & Infrastructure**: AWS, GCP & more
 
-**Frontend & Architecture**: React.js, Next.js, TypeScript & Micro-frontends.
-**Backend Engineering**: Node.js & its most widely used framework NestJS amongst others.
-**Databases**: PostgreSQL, MongoDB, DynamoDB.
-**Cloud & Infrastructure**: AWS, GCP and more.
-
-With a strong focus on AI-first design and long-term scalability, I turn complex product requirements into elegant, high-performance systems built to last.
+I approach engineering with a product-first, business-driven mindset, aligning architecture and technical decisions with company goals to deliver scalable systems that drive growth, enhance user experience and enable rapid iteration.
 
 ---
 
