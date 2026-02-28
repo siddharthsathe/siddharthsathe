@@ -2,9 +2,18 @@
 
 👨‍💻 Software Engineer passionate about building digital experiences that solve real business problems.
 
-My name is Sid and I’m an AI first Full-Stack Software Engineer with 9+ years of experience, based in India.
+I’m an AI first Full-Stack Software Engineer with 9+ years of experience in building digital experiences, based in India.
 
-I specialize in architecting clean, production-grade web applications using modern technologies like React.js, Next.js, TypeScript and cloud-native backend systems. With a strong focus on AI-first design and system scalability, I enjoy turning complex product requirements into elegant, high-performance solutions that are built to last.
+I specialize in architecting clean, production-grade platforms across the stack:
+
+I specialize in architecting clean, production-grade platforms across the stack:
+
+**Frontend & Architecture**: React.js, Next.js, Micro-frontends, TypeScript  
+**Backend Engineering**: Node.js, modern backend frameworks, scalable API design  
+**Databases**: PostgreSQL, MongoDB, DynamoDB  
+**Cloud & Infrastructure**: AWS, GCP, cloud-native architectures  
+
+With a strong focus on AI-first design and long-term scalability, I turn complex product requirements into elegant, high-performance systems built to last.
 
 ---
 
