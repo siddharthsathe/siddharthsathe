@@ -1,5 +1,4 @@
-# Hi, I'm Sid 👋 🧑🏻‍💻  
-Sid – AI-First Software Engineer & Product Builder
+# Hi, I'm Siddharth Sathe 👋 🧑🏻‍💻  
 
 👨‍💻 Software Engineer passionate about building digital experiences that solve real business problems.
 
