@@ -4,7 +4,7 @@
 
 I’m an AI first Full-Stack Software Engineer with 9+ years of experience in building digital experiences, based in India.
 
-I specialize in architecting clean, production-grade platforms across the stack:
+I specialize in architecting clean, production-grade platforms across multiple layers of the stack:
 
 **Frontend & Architecture**: React.js, Next.js, TypeScript, Micro-frontends   
 **Backend Engineering**: Node.js & its frameworks  
